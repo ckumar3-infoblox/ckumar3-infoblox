@@ -19,7 +19,7 @@ I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. C
 Software Development | iOS Application development | Competitive Programming | Open Source Contribution
 <br>
 ### Hey visitor : 
-  <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="250" height="100" align="center" >
+  <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="150" height="50" align="center" >
 
 
 <!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=ckumar3-infoblox&count_private=true&show_icons=true&theme=radical) -->
