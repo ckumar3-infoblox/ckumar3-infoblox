@@ -20,11 +20,11 @@ I'm deeply passionate about Software Development, iOS Application Development, C
   <img  src="https://visitor-badge.laobi.icu/badge?page_id=ckumar3-infoblox.ckumar3-infoblox" width="150" height="50" align="center" >
 
 ### If you don't find me with my computer, I'll most likely be:
-1. Indulging in cat videos 😽
+1. Playing with cats 😽
 2. Grooving to music beats 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=natemoo-re&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+<!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hugxde0i2po5bh0c0m5rgyph&cover_image=true&theme=natemoo-re&bar_color=791a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000948.363c3b59ef21472697457595f198b71f.0620)](https://github.com/rayriffy/apple-music-github-profile)
 ### ⚡ My GitHub Stats
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckumar3-infoblox&show_icons=true&theme=merko)
