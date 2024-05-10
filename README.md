@@ -28,7 +28,7 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 ### ⚡ My GitHub Stats
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckumar3-infoblox&show_icons=true&theme=merko)
-
+<br> *infoblox contributions are not included here.
 <!-- Custom Section: More Awesomeness -->
 
 ### More Awesomeness 🚀
